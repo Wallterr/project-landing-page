@@ -1,0 +1,31 @@
+HTML - Linguagem de Marcação. Estrutura do site
+
+CSS - Linguagem de estilização, trabalha com o layout
+
+JS - Linguagem de programação. Fornece a interação de todo o site.
+
+<html></html> é o que faz a estrutura de todo o site, todas as tags vão dentro dela
+
+<head></head> Contem metadados sobre o documento, incluindo arquivos CSS e JavaScript e fornece instruções para navedadores da web e mecanismos de pesquisa. Tudo que esta dentro dessa tag carrega primeiro no site.
+
+<body></body> É usada para definir conteudo principal de uma pagina da web que é exibido para os usuarios, como texto, imagens, videos, formulario e oturos elementos visiveis na pagina.
+
+Meta tags = Fornece metadados como codificação de caracteres e configurações do viewport 
+
+MDN WEB DOCS - SITE PARA TAG
+
+Asteristico * serve para estilizar a pagina toda.
+
+JS se coloca dentro da tag <body> pois ele se carrega junto com o corpo do site
+
+Funçõe e metodos se consistem em estruturas em que se guarda algoritmo.
+
+No JS para pegar elemento de outra janela use:
+
+var NOME = window.document.getElementById("id"):
+
+Uma função em JS é bloco de código que pode ser definido uma vez e reutilizado varias vezes em um programa. Ele pode receber argumentos de entrada, realizar operações com esses argumento e retornar um valor como resultado. As funções no JS são declaradas com a palagra-chave FUNCTION, seguida pelo nome da função e seus parametros entre parenteses.  Eles podem ser chamadas em diferentes partes do código e podem ser aninhadas para criar funções mais complexas
+
+Ao inicar uma function sempre abrir e fechar parentes ()
+
+ONMOUSEENTER - é um função de evento, que serve para acontecer algo na pagina quando o usuario passar o mouse

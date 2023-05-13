@@ -1,0 +1,25 @@
+*{
+    background-color: brown;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+}
+#principal{
+    background-color: black;
+    color: brown;
+}
+#principal2{
+    background-color: purple;
+    color:aliceblue;
+}
+#principal2{
+    background-color: aquamarine;
+    color:black
+}
+#principal3{
+    background-color: azure;
+    color: blue;
+}
+#principal4{
+    background-color: chartreuse;
+    color: coral;
+}
